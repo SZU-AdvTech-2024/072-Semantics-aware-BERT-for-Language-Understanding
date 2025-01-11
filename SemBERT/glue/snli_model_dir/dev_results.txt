@@ -1,0 +1,8 @@
+Epoch: 0, eval_accuracy = 0.6470588235294118
+Epoch: 0, eval_loss = 0.8642951250076294
+Epoch: 0, global_step = 0
+Epoch: 0, loss = None
+Epoch: 0, eval_accuracy = 0.8585653322495428
+Epoch: 0, eval_loss = 0.36779302919839885
+Epoch: 0, global_step = 0
+Epoch: 0, loss = None
